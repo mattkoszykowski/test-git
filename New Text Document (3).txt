@@ -13,3 +13,6 @@ fadfas
 asd
 afdsasdfafdsafds
 fadsfdsa
+
+
+jakies bla bla to unstaged and then stage
