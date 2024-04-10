@@ -6,3 +6,5 @@ a teraz może już działa
 
 dodałem klika pusty i jedną pełną linie
 
+
+a to będzie tylko w working forlder
