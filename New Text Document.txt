@@ -6,6 +6,12 @@ a tutaj dalej pusto, więc dopisałem
 i kilka pustych linii powyżej.
 
 
+
 to też pójdzie na branch
 
+
+=== no ale to też dodamy bo to z brancha jest 
+to też pójdzie na branch
+
+=== a to było na masterze
 a teraz to pójdzie ma merge 
