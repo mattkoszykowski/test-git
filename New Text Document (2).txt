@@ -8,3 +8,9 @@ dodałem klika pusty i jedną pełną linie
 
 
 a to będzie tylko w working forlder
+
+
+text dodany w branchu testowym
+* to 
+* no i to
+* i jeszcze tooooo
